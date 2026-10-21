@@ -72,5 +72,3 @@ A Makeover Monday challenge to create a dashboard that uses multiple mark layers
 
 
 ### Feel free to reach with any questions! <img width="1000" height="50" alt="7" src="https://github.com/user-attachments/assets/60696eaa-4ffb-4884-86b8-6cc113491a56" />
-
-
