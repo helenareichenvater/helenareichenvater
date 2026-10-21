@@ -71,4 +71,4 @@ A three-hour Makeover Monday challenge to create a dashboard exploring how anima
 A Makeover Monday challenge to create a dashboard that uses multiple mark layers to identify flight paths leaving from different airports that fall within a specified area. 
 
 
-### Feel free to reach with any questions! <img width="1000" height="50" alt="7" src="https://github.com/user-attachments/assets/60696eaa-4ffb-4884-86b8-6cc113491a56" />
+### Feel free to reach out with any questions! <img width="1000" height="50" alt="7" src="https://github.com/user-attachments/assets/60696eaa-4ffb-4884-86b8-6cc113491a56" />
